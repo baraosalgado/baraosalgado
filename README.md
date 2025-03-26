@@ -2,7 +2,7 @@
 # Olá, eu sou o Moisés Salgado! 👋
 
 
-## 🚀 Sobre mim
+## 😎🤨 Sobre mim
 Eu sou um Sou Administrador de Empresas e Bancário, aprendendo desenvolvimento Full-Stack...
 Estou cursando Informática para Internet pelo IFSULDEMINAS.
 Tenho especialização em Business Intelligence, Big Data e Analytics pela Anhanguera/Uniderp.
@@ -13,9 +13,9 @@ Atualmente estou me candidatando a uma Pós Tech pela Fiap On.
 Javascript, HTML, CSS...
 
 
-## Etiquetas
+## Licenças
 
-Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
+Licenças de uso de software:
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
