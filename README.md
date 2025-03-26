@@ -10,7 +10,8 @@ Atualmente estou me candidatando a uma Pós Tech pela Fiap On.
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS...
+A Tríade do Front-end: HTML | CSS | JS.
+Alguma coisa do Back-end: PHP | SQL.
 
 
 ## Licenças
