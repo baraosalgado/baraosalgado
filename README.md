@@ -1,10 +1,10 @@
 
 # Olá, eu sou o Moisés! 👋
 
-Seja bem vindo(a)...!!!
+Seja bem vindo(a) ao meu perfil no GitHub ...!!!
 
 ## 😎🤨 Sobre mim
-Eu sou um Sou Administrador de Empresas e Bancário, aprendendo desenvolvimento Full-Stack...
+Eu sou um Administrador de Empresas e Bancário, aprendendo desenvolvimento Full-Stack...
 Estou cursando Informática para Internet pelo IFSULDEMINAS.
 Tenho especialização em Business Intelligence, Big Data e Analytics pela Anhanguera/Uniderp.
 Atualmente estou me candidatando a uma Pós Tech pela Fiap On.
